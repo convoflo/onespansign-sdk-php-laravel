@@ -4,7 +4,7 @@
   "type": "library",
   "description": "",
   "require": {
-    "alexdemers/onespansign-sdk-php": "dev-master",
+    "alexdemers/onespansign-sdk-php": "^1.0.0-alpha.1",
     "laravel/framework": "^6.2"
   },
   "authors": [
