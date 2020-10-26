@@ -5,7 +5,7 @@
   "description": "",
   "require": {
     "alexdemers/onespansign-sdk-php": "^1.0.0-alpha.3",
-    "laravel/framework": "^6.2"
+    "laravel/framework": "^6.2|^7.0|^8.0"
   },
   "authors": [
     {
