@@ -1,16 +1,16 @@
 {
-  "name": "alexdemers/onespansign-sdk-php-laravel",
+  "name": "tagmydoc/onespansign-sdk-php-laravel",
   "license": "MIT",
   "type": "library",
   "description": "",
   "require": {
-    "alexdemers/onespansign-sdk-php": "^1.0.0",
+    "tagmydoc/onespansign-sdk-php": "^1.0.0",
     "laravel/framework": "^6.2|^7.0|^8.0"
   },
   "authors": [
     {
       "name": "Alexandre Demers",
-      "email": "alex@deme.rs",
+      "email": "alex.demers@tagmydoc.com",
       "role": "Developer"
     }
   ],
